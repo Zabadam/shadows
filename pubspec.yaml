@@ -1,0 +1,16 @@
+name: shadows
+description: Flutter extensions on `BoxShadow`s and `List`s of them, as well helper methods for converting a `double` => Material "elevation" shadows.
+version: 0.9.0
+repository: https://github.com/Zabadam/shadows
+issue_tracker: https://github.com/Zabadam/shadows/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+
+flutter:
